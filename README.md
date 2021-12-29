@@ -1,0 +1,2 @@
+# Mynamespaces
+For test environment
